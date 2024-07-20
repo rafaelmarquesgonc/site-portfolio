@@ -22,3 +22,15 @@ Nesse curso você vai _dominar_ **tudo.**
 > Este é um blockquote para destacar alguma área
 >
 > Segunda área destacada
+
+**Comando para rodar o projeto:**
+
+```
+npm start
+```
+
+**Comando para rodar o projeto em python:**
+```python
+for loop in xs:
+    print(xs)
+```
