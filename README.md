@@ -11,6 +11,8 @@ Nesse curso você vai _dominar_ **tudo.**
 
 ## Módulos 2:
 1. Começando com git
+    1. O que é git?
+    2. O que não é git?
 2. Aprendendo sobre branches
 3. GIT avançado
 
