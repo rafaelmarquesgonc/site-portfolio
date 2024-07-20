@@ -4,10 +4,15 @@
 Nesse curso você vai _dominar_ **tudo.**
 
 ## Módulos:
-Entendendo o que é git
-etc
-etc
-etc
+* Entendendo o que é git
+* etc
+* etc 
+* etc
+
+## Módulos 2:
+1. Começando com git
+2. Aprendendo sobre branches
+3. GIT avançado
 
 ### Rede social
 [Instagram](https://www.instagram.com/rafaelmarques.dm/)
