@@ -3,6 +3,8 @@
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai _dominar_ **tudo.**
 
+**Últimas updates**
+
 - [x] Site responsivo.
 - [ ] Login com facebook.
 - [ ] Página sobre a empresa.
@@ -39,3 +41,10 @@ npm start
 for loop in xs:
     print(xs)
 ```
+
+Propriedade | Descrição
+-------- | -------
+Name | Informar o nome do usuário
+Size | Definir o tamanho do campo
+Background | Cor de fundo da area em HEX
+onPress | Função chamada quando clicar no botão
