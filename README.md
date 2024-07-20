@@ -1,8 +1,8 @@
 ![Logo do git](https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science-p-1080.jpeg)
 
 [Bem vindo](#bem-vindo-ao-curso-git-e-github) |
-[Módulos] (#bem-vindo-ao-curso-git-e-github) |
-[Rede Social](#bem-vindo-ao-curso-git-e-github)
+[Módulos](#módulos) |
+[Rede Social](#rede-social)
 
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai _dominar_ **tudo.**
